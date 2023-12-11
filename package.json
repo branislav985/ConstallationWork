@@ -1,0 +1,26 @@
+{
+  "name": "constellationwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branislav985/ConstallationWork.git"
+  },
+  "author": "Branislav Andrejic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/branislav985/ConstallationWork/issues"
+  },
+  "homepage": "https://github.com/branislav985/ConstallationWork#readme",
+  "dependencies": {
+    "cypress": "^13.6.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "prettier": "3.1.1"
+  }
+}
